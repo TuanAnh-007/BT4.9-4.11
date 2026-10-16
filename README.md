@@ -15,3 +15,6 @@
 <img width="1491" height="890" alt="Ảnh chụp màn hình 2026-10-16 192041" src="https://github.com/user-attachments/assets/b4c6537d-f652-4d27-bdd0-91cc8607e2b8" />
 
 ## Bai4.11
+<img width="1578" height="942" alt="Ảnh chụp màn hình 2026-10-16 193921" src="https://github.com/user-attachments/assets/69c5d21e-13a8-45c7-a543-878b81b47865" />
+
+<img width="1573" height="943" alt="Ảnh chụp màn hình 2026-10-16 194004" src="https://github.com/user-attachments/assets/835e65dc-b064-4d8f-a1dc-b4e52c86526a" />
